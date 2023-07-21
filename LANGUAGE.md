@@ -81,7 +81,7 @@ Transmutations are pronounced as follows
 | ad     |                      | ed     |             | id     | you                | od     |             | ud     |             |
 | af     | if                   | ef     |             | if     |                    | of     |             | uf     |             |
 | ag     |                      | eg     |             | ig     |                    | og     | hull        | ug     |             |
-| ah     | and                  | eh     |             | ih     | today              | oh     |             | uh     |             |
+| ah     | and                  | eh     | ignore      | ih     | today              | oh     |             | uh     |             |
 | aj     | question             | ej     | say, speak  | ij     |                    | oj     |             | uj     |             |
 | ak     | external names, "    | ek     |             | ik     | almost, some       | ok     |             | uk     |             |
 | al     |                      | el     |             | il     | he, she ,it, they  | ol     |             | ul     |             |
