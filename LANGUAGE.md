@@ -77,7 +77,7 @@ Transmutations are pronounced as follows
 | a-word | translation          | e-word | translation | i-word | translation        | o-word | translation | u-word | translation |
 | ------ | -------------------- | ------ | ----------- | ------ | ------------------ | ------ | ----------- | ------ | ----------- |
 | ab     |                      | eb     |             | ib     |                    | ob     |             | ub     |             |
-| ac     |                      | ec     |             | ic     |                    | oc     | location    | uc     | old         |
+| ac     |                      | ec     |             | ic     |                    | oc     | location    | uc     |             |
 | ad     |                      | ed     |             | id     | you                | od     |             | ud     |             |
 | af     | if                   | ef     |             | if     |                    | of     |             | uf     |             |
 | ag     |                      | eg     |             | ig     |                    | og     | outside     | ug     | good        |

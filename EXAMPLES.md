@@ -1,5 +1,7 @@
 # Examples
 
+OUT OF DATE!!
+
 I miss all those times
 > im evihin irik anin irot
 >> (I) (want today here) (many almost) (not here) (many time)
@@ -45,13 +47,21 @@ I am from and in "Name"
 >> (I) (is old) (and) (is) (Name)
 
 Money doesn't grow on trees
-> irevutanelol anax eoc anutol
+> irevutanelol anax eoc olanut
 >> (many want small not live plant) (not is) (located) (not small plant)
 
 A cold fish
-> um eloleocirour
+> um oeloleocirour
 >> (cold) (live plant located many water)
 
 Courage and stupidity were all he had
 > oehux ah oirelux ax anirik ipil
 >> (ignorance danger) (and) (many live danger) (is) (not many some) (of he/she/it/they)
+
+How old are you?
+> aj ir ouc ax id
+>> (question) (many) (old) (is) (you)
+
+I am 15
+> im ax aucabag
+>> (I) (is) (old first word fifth word)
