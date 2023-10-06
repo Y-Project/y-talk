@@ -23,3 +23,35 @@ You probably got a lot to say
 You will be empty on the inside
 > id anucax anir anog
 >> (you) (not old its) (not many) (not outside)
+
+How are you?
+> aj afug ax id
+>> (question) (if good) (is) (you)
+
+I am fine and you?
+> im ax ug ah aj (afug ax) id
+>> (I) (is) (good) (and) (question) ((if good) (is)) (you)
+
+I am fine too
+> im ax ug
+>> (I) (is) (good)
+
+Where are you from?
+> aj oc id axuc
+>> (question) (location) (you) (is old)
+
+I am from and in "Name"
+> id axuc ah ax akNameak
+>> (I) (is old) (and) (is) (Name)
+
+Money doesn't grow on trees
+> irevutanelol anax eoc anutol
+>> (many want small not live plant) (not is) (located) (not small plant)
+
+A cold fish
+> um eloleocirour
+>> (cold) (live plant located many water)
+
+Courage and stupidity were all he had
+> oehux ah oirelux ax anirik ipil
+>> (ignorance danger) (and) (many live danger) (is) (not many some) (of he/she/it/they)

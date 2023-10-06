@@ -77,20 +77,20 @@ Transmutations are pronounced as follows
 | a-word | translation          | e-word | translation | i-word | translation        | o-word | translation | u-word | translation |
 | ------ | -------------------- | ------ | ----------- | ------ | ------------------ | ------ | ----------- | ------ | ----------- |
 | ab     |                      | eb     |             | ib     |                    | ob     |             | ub     |             |
-| ac     |                      | ec     |             | ic     |                    | oc     |             | uc     | old         |
+| ac     |                      | ec     |             | ic     |                    | oc     | location    | uc     | old         |
 | ad     |                      | ed     |             | id     | you                | od     |             | ud     |             |
 | af     | if                   | ef     |             | if     |                    | of     |             | uf     |             |
-| ag     |                      | eg     |             | ig     |                    | og     | hull        | ug     |             |
+| ag     |                      | eg     |             | ig     |                    | og     | outside     | ug     | good        |
 | ah     | and                  | eh     | ignore      | ih     | today              | oh     |             | uh     |             |
 | aj     | question             | ej     | say, speak  | ij     |                    | oj     |             | uj     |             |
 | ak     | external names, "    | ek     |             | ik     | almost, some       | ok     |             | uk     |             |
-| al     |                      | el     |             | il     | he, she ,it, they  | ol     |             | ul     |             |
+| al     |                      | el     | live        | il     | he, she ,it, they  | ol     | plant       | ul     |             |
 | am     |                      | em     | invite      | im     | I, me              | om     |             | um     | cold        |
 | an     | not                  | en     |             | in     | here               | on     |             | un     |             |
 | ap     | because, through, by | ep     |             | ip     | possessive         | op     |             | up     |             |
-| ar     |                      | er     |             | ir     | plural, many, much | or     |             | ur     |             |
+| ar     |                      | er     |             | ir     | plural, many, much | or     |             | ur     | fluid       |
 | as     | zoom-in, down        | es     | see, watch  | is     |                    | os     |             | us     |             |
-| at     |                      | et     |             | it     |                    | ot     | time        | ut     |             |
-| av     | family tree          | ev     | want        | iv     |                    | ov     |             | uc     |             |
-| ax     | assignment           | ex     | passive     | ix     |                    | ox     |             | ux     |             |
+| at     |                      | et     |             | it     |                    | ot     | time        | ut     | small       |
+| av     | family tree          | ev     | want        | iv     |                    | ov     |             | uv     |             |
+| ax     | assignment           | ex     | passive     | ix     |                    | ox     |             | ux     | dangerous   |
 | az     |                      | ez     |             | iz     |                    | oz     |             | uz     |             |
